@@ -21,5 +21,6 @@ After running the video by video_stream_opencv, run this command to see active n
 /videofile/image_raw is a node.
 
 For more information:
-[](http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data)
+
+http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data
  
